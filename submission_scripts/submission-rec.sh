@@ -11,7 +11,7 @@ module load fosscuda/2020b Python/3.8.6
 source ~/kraken-env/bin/activate
 
 OUTPUT_NAME="output_name"
-XML_FOLDER="/home/users/g/jeannom2/Modele-HTR/data"
+XML_FOLDER="/home/users/g/jeannom2/Modele-HTR/data/Apologia"
 
 echo "KETOS training"
 srun ketos train -o $OUTPUT_NAME -f alto -d cuda "${XML_FOLDER}/*.xml"
