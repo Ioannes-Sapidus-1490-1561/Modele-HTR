@@ -1,0 +1,8 @@
+data/Apologia/84_bab49_default.xml			
+data/Apologia/85_1dd5a_default.xml			
+data/Apologia/86_74215_default.xml			
+data/Apologia/87_98050_default.xml			
+data/Apologia/88_0c57b_default.xml
+data/Apologia/79_cd4a5_default.xml			
+data/Apologia/7_e3215_default.xml			
+data/Apologia/80_94f42_default.xml
