@@ -68,12 +68,7 @@ data/Apologia/74_e5ede_default.xml
 data/Apologia/75_91fbf_default.xml			
 data/Apologia/76_33a13_default.xml			
 data/Apologia/77_6fdbc_default.xml			
-data/Apologia/78_3ccff_default.xml		
-			
-		
-		
-			
-			
+data/Apologia/78_3ccff_default.xml			
 			
 			
 			
